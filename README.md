@@ -1,9 +1,9 @@
-# Line 1 en la que agrego cambios y creo primer commit
+# Line 1 - Agrego cambios - Primer commit
 
-# Line 3 en la que agrego otro cambio y creo segundo commit
+# Line 3 - Agrego otro cambio - Segundo commit
 
-# Line 5 en la que agrego un nuevo cambio y creo tercer commit
+# Line 5 - Agrego nuevo cambio - Creo tercer commit
 
-# Line 7 en la que agrego un nuevo cambio y creo cuarto commit
+# Line 7 - Agrego cambio adicional - Creo cuarto commit
 
-# Line 9 en la que agrego el último cambio y creo el quinto commit
+# Line 9 - Agrego último cambio - Creo quinto y último commit
